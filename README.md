@@ -44,7 +44,3 @@ We sincerely thank all those who contributed to this study.
     number = {12},
 }
 ```
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Tdzdele/LCFF-Net&type=Date)](https://www.star-history.com/#Tdzdele/LCFF-Net&Date)
